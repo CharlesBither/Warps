@@ -1,0 +1,6 @@
+name: Warps
+version: '${project.version}'
+main: tech.secretgarden.warps.Warps
+api-version: 1.19
+authors: [ CharlesBither ]
+description: Send players to specific location after joining a server
